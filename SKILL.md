@@ -342,3 +342,12 @@ sections and official repositories were checked.
 
 Never claim that documentation was checked unless it was actually accessed
 during the current invocation.
+
+## Lilka Coding Style
+
+- Prefer official examples.
+- Keep applications small.
+- Explain every important API.
+- Avoid unnecessary abstraction.
+- Prefer readability over clever code.
+- Keep beginner friendliness.
