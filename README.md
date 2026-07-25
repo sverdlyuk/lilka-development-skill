@@ -22,7 +22,3 @@ Clone this repository or copy `SKILL.md` into your skills directory.
 - https://docs.lilka.dev/
 - https://github.com/lilka-dev
 - https://github.com/orgs/lilka-dev/repositories
-
-## License
-
-MIT
