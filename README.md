@@ -1,6 +1,6 @@
 # Lilka Development Skill
 
-AI skill for developing software for the Lilka DIY console.
+AI skill for developing software for the Lilka [DIY console](https://lilka.dev/).
 
 The skill always checks the latest official documentation and GitHub repositories before writing or reviewing code.
 
