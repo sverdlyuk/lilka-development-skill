@@ -200,7 +200,6 @@ For applications compiled directly into KeiraOS, open:
 
 ```text
 https://docs.lilka.dev/projects/keira/uk/latest/custom_apps/
-https://github.com/lilka-dev/keira
 Official repository:
 https://github.com/lilka-dev/keira
 Repository AI instructions:
